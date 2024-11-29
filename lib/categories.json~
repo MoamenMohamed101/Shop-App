@@ -1,0 +1,12 @@
+{
+  "status": true,
+  "message": "Registration done successfully",
+  "data": {
+    "name": "moamen mohamedd",
+    "email": "wallid@gmail.com",
+    "phone": "464565164",
+    "id": 69101,
+    "image": "https://student.valuxapps.com/storage/assets/defaults/user.jpg",
+    "token": "Uoq620XYdU3uXSfeDS3r6F9p1yvb1J5H4QmKnpSE9jFO6VZHimyRW7l0bq6zNQWfS1IRA7"
+  }
+}
